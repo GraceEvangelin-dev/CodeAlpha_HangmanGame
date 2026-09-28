@@ -29,5 +29,4 @@ The player guesses a hidden word one letter at a time. The game ends when the pl
 ## Internship Details
 - Organization: CodeAlpha
 - Internship: Python Programming
-- Task 1: Hangman Game
--
+
